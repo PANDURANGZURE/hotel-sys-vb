@@ -1,0 +1,236 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Saurav z vb
+</name>
+</assembly>
+<members>
+<member name="T:Modern_Flat__Food_Application.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources._saurav_pvt_3112_14021011_201530550">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnAboutUs2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnBoiled">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnCake">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnChicken">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnClose">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnCoffee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnDessert">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnDrinks">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnFoods">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnIceCream">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnJuice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnMaximize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnMilkShake">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnMinimize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnMinimize1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnNoodle">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnOtherDrink">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnOtherFood">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnPudding">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnRice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnSeafood">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnSoftDrink">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.btnTea">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.chiken">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.CHIKEN_THALI">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.d">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.d1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.e3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.FISH">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.fried_rice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.intro_1694110720">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.juice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.Masala_Chai_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.meat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.meat1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.milkshake">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.pfp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.picCart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.redbull">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.redbull1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Modern_Flat__Food_Application.My.Resources.Resources.star">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
